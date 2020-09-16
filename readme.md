@@ -19,7 +19,7 @@ when using it with formats that have support for links, including:
 And it even works with HTML links, and [HTTP Link Headers][1].
 
 Ketting is designed to both work in the browser and in Node.js. Additionally,
-it has [react bindings][ketting-react] that will make it work in a way that's
+it has [react bindings][react-ketting] that will make it work in a way that's
 familiar to Apollo-Client users.
 
 ### Example
